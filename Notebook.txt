@@ -1,0 +1,14 @@
+1. HSV color dection
+	examples:
+	(1) dection orange (color)
+		https://stackoverflow.com/questions/10948589/choosing-the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv
+	(2) How to determine range of HSV values of the image?
+		https://dsp.stackexchange.com/questions/5922/how-to-determine-range-of-hsv-values-of-the-image
+
+
+Notes:
+	1. 识别横梁是为了判断门柱的左边还是右边为球门
+
+
+Idea:
+	1. 可以顺便识别守门员与门柱之间的空位, 以确定射门方向
